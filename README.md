@@ -12,4 +12,4 @@
 * [RegEx (regular expressions) Tutorial](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
 
 ### Screencasting Tutorial
-[Screencasting Tutorial](https://www.youtube.com/watch?v=WXIJPlECG_c&list=PL4cUxeGkcC9hKBg2mU8Hat4-NedlubC3C)
+* [Screencasting Tutorial](https://www.youtube.com/watch?v=WXIJPlECG_c&list=PL4cUxeGkcC9hKBg2mU8Hat4-NedlubC3C)
